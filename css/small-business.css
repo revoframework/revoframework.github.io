@@ -13,3 +13,26 @@ body {
     padding-top: 56px;
   }
 }
+
+body > .container {
+    padding-bottom: 3.5rem;
+}
+
+footer {
+    width: 100%;
+    position: fixed;
+    bottom: 0;
+}
+
+footer a {
+    color: white;
+    text-decoration: underline;
+}
+
+h3 {
+    font-size: 1.5rem;
+}
+
+navbar {
+    align-items: flex-start;
+}
